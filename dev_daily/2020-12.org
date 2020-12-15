@@ -23,16 +23,22 @@
   
 ** lw 
    
-*** Tasks (10h)
+*** Tasks (10h)[]
     
-**** TOOD 日计划（15min）
+**** DONE TOOD 日计划（15min）[0.5h]
+     CLOSED: [2020-12-15 Tue 22:30]
 **** DONE 规划项目工程管理工作（3h）
      CLOSED: [2020-12-15 Tue 15:41]
-     - [.] 写工程规范文档（1h）
-     - [ ] 创建github，HomeTeacherPlatform项目（0.5h）
-     - [ ] 编写第一次的日计划并提交文档（1h）。
+     - [x] 写工程规范文档（1h）
+     - [x] 创建github，HomeTeacherPlatform项目（0.5h）
+     - [x] 编写第一次的日计划并提交文档（1h）。
 
-**** TODO 学习docker 作为开发环境的相关配置（5h）
+**** TODO 学习docker 作为开发环境的相关配置（5h）[实际0.5h]
+     - [x] 回顾搭建docker相关操作，及相关命令（15min）
+     - [ ] 学习docker-compose.yml 相关配置内容命令(1h)
+     - [ ] 搭建mysql gitlab tomcat jre 这些用docker跑起来（1h）
+     - [ ] 记录学习的docker 基础命令（0.5h）
+ 
 
 **** DONE 协助一鸣搭建工作的开发环境,工程管理相关工作（2h)[实际3h]
      CLOSED: [2020-12-15 Tue 17:49]
@@ -40,9 +46,9 @@
      - [x] 搭建git相关工作(1h)
 
      
-**** DONE 同事突然上午约出去（4h）
+**** DONE 同事突然上午约出去 (4h)
      CLOSED: [2020-12-15 Tue 17:21]
-
+     
    
 ** sym
 
