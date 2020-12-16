@@ -65,9 +65,27 @@
   
 ** lw
    
-*** Tasks
+*** Tasks(10h)
     
 **** TODO 日计划(15min)
+     
+**** TODO 协助一鸣搭建工作的开发环境（3h）
+     - [ ] 在ubuntu的虚拟机中安装java开发环境并跑通第一个java程序。
+     - [ ] 搭建好maven的配置环境
+     - [ ] 用idea跑通第一个maven工程项目
+     - [ ] 安装git，并同步HomeTeacherPlatform
+     - [ ] 安装docker环境。
+       
+**** TODO 完成昨日未完成的docker相关环境配置（4h）
+     - [x] 回顾搭建docker相关操作，及相关命令（15min）
+     - [ ] 学习docker-compose.yml 相关配置内容命令(1h)
+     - [ ] 搭建mysql gitlab tomcat jre 这些用docker跑起来（1h）
+     - [ ] 记录学习的docker 基础命令（0.5h）
+
+**** TODO 购买一个服务器域名（45min）
+     
+**** TODO 创建DockerFile开发环境 image（3h）
+     
 
 ** sym
 
